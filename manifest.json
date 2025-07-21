@@ -1,0 +1,12 @@
+{
+    "name":"Hello World Extenstion",
+    "description":"1.basic level extenstion",
+    "version":"1.0",
+    "manifest_version":3,
+    "action":{
+        "default_icon":"icon.png",
+        "default_popup":"popup.html"
+
+    }
+    
+}
